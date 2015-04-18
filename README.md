@@ -1,0 +1,2 @@
+# jms_apachemq_spring
+jms的apachemq应用与spring整合示例
